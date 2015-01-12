@@ -52,3 +52,6 @@ H:\gittest\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Form2.resources
 H:\gittest\FinalProject\FinalProject\obj\x86\Debug\FinalProject.formReport.resources
 H:\gittest\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Properties.Resources.resources
 H:\gittest\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csproj.GenerateResource.Cache
+H:\GitFinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+H:\GitFinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+H:\GitFinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
